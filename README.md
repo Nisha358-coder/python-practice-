@@ -1,12 +1,21 @@
-# Python For Loops Practice
+# Python Practice 🐍
 
-This repository contains my practice work on **Python for loops**.
+This repository contains my **daily Python practice**, where I collect and organize code as I learn and revise Python fundamentals.
 
-## Contents
-- `for loops.py` – Examples and practice problems using for loops with numbers, strings, and digits.
+## Topics Covered
+- For Loops
+- While Loops
+- Number-based problems  
+  - Sum of digits  
+  - Product of digits  
+  - Palindrome number  
+  - Strong number  
+  - Harshad number  
 
 ## Purpose
-This repository is for my personal Python practice and learning.
+- Strengthen Python fundamentals
+- Practice problem-solving
+- Maintain consistency with daily coding
 
-## Language
-- Python
+This repository will be updated regularly as I continue learning and practicing Python.
+
