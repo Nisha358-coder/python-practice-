@@ -1,23 +1,75 @@
-Python Practice
+🐍 Python Practice Repository
 
-- This repository contains my Python practice work as I learn and revise core programming concepts.
-I use this repo to build logic, understand fundamentals, and apply concepts through small programs.
+This repository contains my daily Python practice, starting from Loops onward.
+I focus on understanding the logic first and then writing the code independently.
 
-What’s Inside
+📘 Topics Covered So Far
+1️⃣ Loops
 
-- Practice problems using for loops and while loops
+-for loop
 
-- Number-based logic problems (digits, palindrome, Harshad, strong number)
+-while loop
 
-- Small mini programs built using loops and conditions
+-Pattern-based problems
 
-Purpose
+-Number-based logic problems
 
-- Strengthen Python fundamentals
+2️⃣ Mini Games (Using Loops & Conditions)
 
-- Improve problem-solving skills
+🎯 Number Guessing Game
 
-- Maintain consistent learning and practice
+✊ Rock, Paper, Scissors
 
-This repository will grow as I continue learning Python.
+-These helped me apply loops and conditions in real programs.
 
+3️⃣ Functions
+
+-Defining and calling functions
+
+-Functions with return values
+
+-Nested (inner) functions
+
+-Recursive functions
+
+-Solving logic problems using functions
+
+4️⃣ Lists (Current Topic)
+
+I have practiced and implemented the following list-based problems:
+
+-Sum of elements in a list
+
+-Average of elements in a list
+
+-Maximum element (with index)
+
+-Second maximum element
+
+-Check if a list is sorted or not
+
+-Left rotation of a list
+
+-Right rotation of a list
+
+-Left rotation by K positions
+
+-Reversing a list
+
+-Linear search
+
+-Binary search
+
+-Bubble sort
+
+-Selection sort
+
+🚀 Learning Approach
+
+Start from loops and move forward step by step
+
+Understand logic → then code
+
+Push code daily to maintain consistency
+
+I will continue updating this repository as I progress further.
