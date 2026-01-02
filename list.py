@@ -114,7 +114,6 @@
 #     elif a[mid]< search:
 #         start = mid + 1
 #         mid = (start + end)//2
-
 #     elif a[mid]> search:
 #         start = mid - 1
 #         mid = (start + end)//2
