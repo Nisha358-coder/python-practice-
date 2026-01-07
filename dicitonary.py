@@ -111,3 +111,87 @@
 # for i in range(len(d)):
 #     names[i]=d[i][0]
 # print(names)
+
+#  que 7 checking two strings have same frequency map
+
+# s1 = "aabbcc"
+# s2 = "baccab"
+
+# if len(s1) == len(s1):
+#     d = {}
+
+#     for i in s1:
+#         if i in d.keys():
+#             d[i] +=1
+#         else:
+#             d[i] = 1
+    
+#     for i in s2:
+#         if i in d.keys():
+#             d[i] -= 1
+#         else:
+#             print("there is extra element")
+        
+#     for i in d:
+#         if d[i] != 0:
+#             print("your elements are not same")
+#             break
+#     else:
+#         print("strings are same")
+
+# else:
+#     print("not same")
+
+
+#  que 8 find duplicate in array hashset
+
+# a = [1,1,1,2,2,4,4,7,6,5,6,5,4,7,3,7,4,4,8,9,4,4,4]
+# d = {}
+# for i in a:
+#     if i in d.keys():
+#         d[i] += 1 
+#     else:
+#         d[i] = 1
+# for i in d:
+#     if d[i] > 1:
+#         print(i)
+
+
+#  que 9 most frequency even element (leetcode que)
+
+# nums = [0,1,2,2,4,4,1]
+
+# d= {}
+
+# for i in nums:
+#     if i % 2 == 0:
+#         if i in d.keys():
+#             d[i] += 1
+#         else:
+#             d[i] = 1
+# if not d:
+#         print (-1)
+# else:
+
+#     max_f = max(d.values())
+#     cand = [num for num , freq in d.items() 
+# if freq == max_f]
+#     print (min(cand))
+
+
+#  que 10 intersection of two arrays 
+
+# a = [1,2,2,1]
+# b = [2,2]
+# d = {}
+
+# j = []
+# for i in a:
+#     if i in d.keys():
+#         d[i] += 1
+#     else:
+#         d[i] = 1
+# for i in d.keys():
+#     if i in b:
+#         j.append(i)
+# print(j)
