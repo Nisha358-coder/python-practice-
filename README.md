@@ -1,75 +1,90 @@
-🐍 Python Practice Repository
+📘 Python Mini Projects (Beginner Level)
 
-This repository contains my daily Python practice, starting from Loops onward.
-I focus on understanding the logic first and then writing the code independently.
+- This repository contains my Python practice programs and mini projects.
+- I am learning Python step by step and uploading my work here to track my progress.
 
-📘 Topics Covered So Far
-1️⃣ Loops
+🧠 Topics Covered
 
--for loop
+- Variables & Data Types
 
--while loop
+- Conditional Statements (if, else)
 
--Pattern-based problems
+- Loops (for, while)
 
--Number-based logic problems
+- Lists, Tuples, Sets, Dictionaries
 
-2️⃣ Mini Games (Using Loops & Conditions)
+- Functions
 
-🎯 Number Guessing Game
+- Basic logic building
 
-✊ Rock, Paper, Scissors
+📂 Mini Projects Included
+1️⃣ Student Marks Analyzer
 
--These helped me apply loops and conditions in real programs.
+- Analyzes student marks
 
-3️⃣ Functions
+- Categorizes students as:
 
--Defining and calling functions
+- Topper
 
--Functions with return values
+- Good
 
--Nested (inner) functions
+- Pass
 
--Recursive functions
+- Fail
 
--Solving logic problems using functions
+Uses:
 
-4️⃣ Lists (Current Topic)
+- Lists
 
-I have practiced and implemented the following list-based problems:
+- Loops
 
--Sum of elements in a list
+- Conditions
 
--Average of elements in a list
+- Average calculation
 
--Maximum element (with index)
+2️⃣ Word Frequency Analyzer
 
--Second maximum element
+- Counts how many times each word appears in a sentence
 
--Check if a list is sorted or not
+Uses:
 
--Left rotation of a list
+- String methods
 
--Right rotation of a list
+- Dictionary
 
--Left rotation by K positions
+Loops
 
--Reversing a list
+3️⃣ Number Guessing Game
 
--Linear search
+- User guesses a number
 
--Binary search
+- Program checks correct or not
 
--Bubble sort
+Uses:
 
--Selection sort
+- while loop
 
-🚀 Learning Approach
+- if-else
 
-Start from loops and move forward step by step
+4️⃣ Stone Paper Scissors
 
-Understand logic → then code
+- Simple game with computer
 
-Push code daily to maintain consistency
+- Uses random choice and conditions
 
-I will continue updating this repository as I progress further.
+🛠️ Tools Used
+
+- Python
+
+- VS Code
+
+- Git & GitHub
+
+🚀 Learning Goal
+
+- I am practicing Python daily to improve my logic building and problem-solving skills and will keep adding more projects.
+
+✨ Author
+
+- Nisha Choudhary
+- Beginner Python Learner 🐍
